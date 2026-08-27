@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clean Code"
+  short_description: "先识别代码语言，再独立应用 Java 或 Go 的整洁与审查规则"
+  default_prompt: "使用 $code-clean 先识别这段代码的语言，再按对应规范审查，区分明确缺陷与可选改进。"
